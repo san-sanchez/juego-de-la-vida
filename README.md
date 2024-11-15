@@ -12,4 +12,4 @@ Vive: una célula se mantiene viva si tiene 2 o 3 vecinos a su alrededor.
 
 <img src="IMA_CONWAY_2.PNG" alt="Pulsar">
 
-<img src="IMG_CONWAY.PNG_CONWAY.PNG" alt="Generador de Naves Espaciales">
+<img src="IMG_CONWAY.PNG" alt="Generador de Naves Espaciales">
